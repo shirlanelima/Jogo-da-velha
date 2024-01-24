@@ -1,0 +1,7 @@
+C:\Projetos\curso c# avancado\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Projetos\curso c# avancado\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Projetos\curso c# avancado\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Projetos\curso c# avancado\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Projetos\curso c# avancado\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Projetos\curso c# avancado\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Projetos\curso c# avancado\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
